@@ -1,117 +1,100 @@
-<h1 align="center">Hi 👋, I'm Kavya Sharma</h1>
-<h3 align="center">Computer Science Engineer | Java Developer | Full Stack & Cloud Enthusiast</h3>
+<h1 align="center">Kavya Sharma</h1>
+<h3 align="center">Java Developer • Backend Learner • Future Full Stack Engineer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Computer+Science+Engineer;Java+Developer;Full+Stack+Learner;Cloud+%26+DevOps+Enthusiast"/>
+Solving real-world problems with code 🚀
 </p>
+
+---
+
+### 🌐 Connect With Me
 
 <p align="center">
-Passionate about solving algorithmic problems and building scalable backend systems.
+<a href="https://github.com/kavyasharma2005">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://kavyasharma2005.github.io/Portfolio">
+<img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-# 🚀 About Me
+# ⚡ About Me
 
-* 🎓 Computer Science Engineering Student
-* 💻 Strong in **Java**
-* 🌱 Exploring **Full Stack Development**
-* ☁️ Interested in **Cloud & DevOps**
-* 🧠 Solved **110+ problems on LeetCode**
-* 🚀 Building backend applications using **Spring Boot**
+Backend focused developer learning **Java, DSA and System Design**.
 
----
+I enjoy building clean projects and improving my problem solving skills.
 
-# 🌐 Connect With Me
+Currently focusing on:
 
-💼 LinkedIn
-https://www.linkedin.com/in/kavya-sharma-8183273a8/
-
-🧠 LeetCode
-https://leetcode.com/u/KavyaSharma2005/
-
-🐙 GitHub
-https://github.com/kavyasharma2005
+- Java Development
+- Spring Boot
+- Data Structures & Algorithms
+- Backend Systems
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
-### Languages
+<p align="center">
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-</p>
+<img src="https://skillicons.dev/icons?i=java,spring,html,css,js,git,github,vscode"/>
 
-### Web Development
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
 </p>
 
 ---
 
 # 🚀 Featured Project
 
-[![TaskMaster](https://github-readme-stats.vercel.app/api/pin/?username=kavyasharma2005\&repo=taskmaster\&theme=tokyonight)](https://github.com/kavyasharma2005/taskmaster)
+### 📝 To-Do Application
 
-TaskMaster is a **task management backend application built using Java and Spring Boot**.
+A simple productivity app built with Java.
 
 Features:
 
-* Create tasks
-* Update tasks
-* Delete tasks
-* REST API architecture
+- Task management
+- Clean UI
+- Efficient logic
+
+🔗 Project Link  
+https://github.com/kavyasharma2005/taskmaster
+
+---
+
+# 🌍 My Portfolio
+
+Check out my developer portfolio:
+
+🔗 https://kavyasharma2005.github.io/Portfolio
 
 ---
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavyasharma2005\&show_icons=true\&theme=tokyonight)
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kavyasharma2005&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kavyasharma2005&theme=tokyonight"/>
+
+</p>
 
 ---
 
-# 🔥 Most Used Languages
+# 📈 Activity Graph
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavyasharma2005\&layout=compact\&theme=tokyonight)
+<p align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kavyasharma2005&theme=tokyo-night"/>
 
-# 🧠 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/KavyaSharma2005?theme=dark\&font=Baloo)
+</p>
 
 ---
 
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/kavyasharma2005/kavyasharma2005/blob/output/github-contribution-grid-snake.svg)
-
----
-
-# 🎯 Current Focus
-
-* Data Structures & Algorithms
-* Backend Development
-* Spring Boot APIs
-* Cloud & DevOps
-
----
-
-⭐ From [KavyaSharma2005](https://github.com/kavyasharma2005)
-# 🔥 GitHub Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=kavyasharma2005&theme=tokyonight)
+⭐ Always learning and building.
