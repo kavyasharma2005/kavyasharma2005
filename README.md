@@ -112,3 +112,6 @@ Features:
 ---
 
 ⭐ From [KavyaSharma2005](https://github.com/kavyasharma2005)
+# 🔥 GitHub Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kavyasharma2005&theme=tokyonight)
