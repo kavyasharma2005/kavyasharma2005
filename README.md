@@ -42,12 +42,25 @@ Currently focusing on:
 
 # 💻 Tech Stack
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,html,css,js,git,github,vscode"/>
-
+### 🧠 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css"/>
 </p>
 
+### ⚙️ Frameworks / Libraries
+<p>
+<img src="https://skillicons.dev/icons?i=spring"/>
+</p>
+
+### 🛠 Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
+
+### 📚 Currently Learning
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring"/>
+</p>
 ---
 
 # 🚀 Featured Project
