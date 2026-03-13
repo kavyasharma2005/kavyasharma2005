@@ -1,5 +1,5 @@
 <h1 align="center">Kavya Sharma</h1>
-<h3 align="center">Java Developer • Backend Learner • Future Full Stack Engineer</h3>
+<h3 align="center">Java Developer • Cloud Enthusiast• Future Full Stack Learner</h3>
 
 <p align="center">
 Solving real-world problems with code 🚀
@@ -10,6 +10,7 @@ Solving real-world problems with code 🚀
 ### 🌐 Connect With Me
 
 <p align="center">
+
 <a href="https://github.com/kavyasharma2005">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
@@ -21,6 +22,7 @@ Solving real-world problems with code 🚀
 <a href="mailto:your-email@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
 ---
@@ -33,10 +35,10 @@ I enjoy building clean projects and improving my problem solving skills.
 
 Currently focusing on:
 
-- Java Development
-- Spring Boot
-- Data Structures & Algorithms
-- Backend Systems
+- Java Development  
+- Spring Boot  
+- Data Structures & Algorithms  
+- Backend Systems  
 
 ---
 
@@ -44,7 +46,7 @@ Currently focusing on:
 
 ### 🧠 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css"/>
 </p>
 
 ### ⚙️ Frameworks / Libraries
@@ -61,6 +63,7 @@ Currently focusing on:
 <p>
 <img src="https://skillicons.dev/icons?i=java,spring"/>
 </p>
+
 ---
 
 # 🚀 Featured Project
@@ -71,9 +74,9 @@ A simple productivity app built with Java.
 
 Features:
 
-- Task management
-- Clean UI
-- Efficient logic
+- Task management  
+- Clean UI  
+- Efficient logic  
 
 🔗 Project Link  
 https://github.com/kavyasharma2005/taskmaster
@@ -100,14 +103,20 @@ Check out my developer portfolio:
 
 ---
 
-# 📈 Activity Graph
+# 🐍 Contribution Snake (Kavya Sharma)
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kavyasharma2005&theme=tokyo-night"/>
-
+<img src="https://github.com/kavyasharma2005/kavyasharma2005/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-⭐ Always learning and building.
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kavyasharma2005&theme=tokyo-night"/>
+</p>
+
+---
+
+⭐ **Kavya Sharma — Always learning and building.**
