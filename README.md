@@ -17,11 +17,11 @@
 </h1>
 
 <h3 align="center">
-Full Stack Developer • Cloud Enthusiast • Problem Solver
+Full Stack • Cloud Enthusiast • Problem Solver
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Cloud+Enthusiast;Java+%2B+Spring+Boot;DSA+Learner" />
+<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Full+Stack;Cloud+Enthusiast;Java+%2B+Spring+Boot;DSA+Learner" />
 </p>
 
 <p align="center">
