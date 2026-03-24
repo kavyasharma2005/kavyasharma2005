@@ -61,6 +61,10 @@ Full Stack Developer • Cloud Enthusiast • Problem Solver
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kavyasharma2005&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kavyasharma2005&theme=tokyonight" />
+</p>
 
 ---
 
