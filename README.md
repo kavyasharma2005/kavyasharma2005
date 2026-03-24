@@ -1,9 +1,20 @@
-<h1 align="center">Kavya Sharma</h1>
-<h3 align="center">Java Developer • Cloud Enthusiast• Future Full Stack Learner</h3>
+<h1 align="center">✨ Kavya Sharma ✨</h1>
+<h3 align="center">Java Developer • Cloud Enthusiast • Linux Explorer • C++ Programmer • Future Full Stack Engineer</h3>
 
 <p align="center">
-Solving real-world problems with code 🚀
+💻 Solving real-world problems with code 🚀 <br>
+⚡ Passionate about building scalable systems & learning new tech
 </p>
+
+---
+
+### 🚀 Tech Stack
+
+- ☕ Java (Core + DSA)
+- ⚙️ C++ (Problem Solving)
+- 🐧 Linux (CLI, System Usage)
+- ☁️ Cloud Basics
+- 🌐 Web Development (Learning Phase)
 
 ---
 
@@ -27,96 +38,24 @@ Solving real-world problems with code 🚀
 
 ---
 
-# ⚡ About Me
-
-Backend focused developer learning **Java, DSA and System Design**.
-
-I enjoy building clean projects and improving my problem solving skills.
-
-Currently focusing on:
-
-- Java Development  
-- Spring Boot  
-- Data Structures & Algorithms  
-- Backend Systems  
-
----
-
-# 💻 Tech Stack
-
-### 🧠 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css"/>
-</p>
-
-### ⚙️ Frameworks / Libraries
-<p>
-<img src="https://skillicons.dev/icons?i=spring"/>
-</p>
-
-### 🛠 Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
-
-### 📚 Currently Learning
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring"/>
-</p>
-
----
-
-# 🚀 Featured Project
-
-### 📝 To-Do Application
-
-A simple productivity app built with Java.
-
-Features:
-
-- Task management  
-- Clean UI  
-- Efficient logic  
-
-🔗 Project Link  
-https://github.com/kavyasharma2005/taskmaster
-
----
-
-# 🌍 My Portfolio
-
-Check out my developer portfolio:
-
-🔗 https://kavyasharma2005.github.io/Portfolio
-
----
-
-# 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kavyasharma2005&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kavyasharma2005&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=kavyasharma2005&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kavyasharma2005&theme=tokyonight" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake (Kavya Sharma)
+### 🧠 Current Focus
 
-<p align="center">
-<img src="https://github.com/kavyasharma2005/kavyasharma2005/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kavyasharma2005&theme=tokyo-night"/>
-</p>
+- 🔥 Mastering Data Structures & Algorithms
+- ☁️ Exploring Cloud Technologies
+- 🛠️ Building Full Stack Projects
+- 🐧 Improving Linux skills
 
 ---
 
-⭐ **Kavya Sharma — Always learning and building.**
+### 💡 Fun Fact
+
+> "Code. Debug. Learn. Repeat." 🚀
