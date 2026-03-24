@@ -10,6 +10,9 @@ Full Stack Developer • Cloud Enthusiast • Problem Solver
 <p align="center">
 💻 Building real-world solutions with code 🚀
 </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=kavyasharma2005&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
