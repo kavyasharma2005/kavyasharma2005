@@ -71,7 +71,27 @@ Full Stack Developer • Cloud Enthusiast • Problem Solver
 
 ---
 
+
+
+## 📌 Featured Repositories
+
+<p align="center">
+
+<a href="https://github.com/kavyasharma2005">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kavyasharma2005&repo=TaskMaster&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/kavyasharma2005">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kavyasharma2005&repo=YOUR-REPO-2&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/kavyasharma2005">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kavyasharma2005&repo=YOUR-REPO-3&theme=tokyonight" />
+</a>
+
+</p>
 ## 🚀 Featured Project
+---
 
 ### 🔥 TaskMaster - Full Stack Task Manager
 
