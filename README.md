@@ -1,4 +1,5 @@
-<p align="center">
+<h1 align="center">
+
 <svg width="500" height="100" viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -14,6 +15,17 @@
       </feMerge>
     </filter>
   </defs>
+
+  <text x="50%" y="55%" text-anchor="middle"
+        fill="url(#grad)"
+        font-size="42"
+        font-family="Verdana"
+        filter="url(#glow)">
+    ✨ Kavya Sharma ✨
+  </text>
+</svg>
+
+</h1>
 
   <text x="50%" y="55%" text-anchor="middle" fill="url(#grad)" font-size="40" font-family="Verdana" filter="url(#glow)">
     Kavya Sharma
