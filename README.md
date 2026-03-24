@@ -1,16 +1,8 @@
 <h1 align="center">Kavya Sharma</h1>
-<h3 align="center">Java Developer • Cloud Enthusiast • Future Full Stack Learner</h3>
+<h3 align="center">Java Developer • Cloud Enthusiast• Future Full Stack Learner</h3>
 
 <p align="center">
 Solving real-world problems with code 🚀
-</p>
-
----
-
-### 🛠 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,cpp,linux,aws" />
 </p>
 
 ---
@@ -29,6 +21,3 @@ Solving real-world problems with code 🚀
 
 <a href="mailto:your-email@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
