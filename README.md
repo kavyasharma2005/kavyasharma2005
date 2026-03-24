@@ -1,4 +1,25 @@
-<h1 align="center">✨ Kavya Sharma ✨</h1>
+<p align="center">
+<svg width="500" height="100" viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6a0dad;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#b026ff;stop-opacity:1" />
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <text x="50%" y="55%" text-anchor="middle" fill="url(#grad)" font-size="40" font-family="Verdana" filter="url(#glow)">
+    Kavya Sharma
+  </text>
+</svg>
+</p>
 
 <h3 align="center">
 Full Stack Developer • Cloud Enthusiast • Problem Solver
