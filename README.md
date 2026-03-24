@@ -1,13 +1,42 @@
-<h1 align="center">Kavya Sharma</h1>
-<h3 align="center">Java Developer • Cloud Enthusiast• Future Full Stack Learner</h3>
+<h1 align="center">✨ Kavya Sharma ✨</h1>
+
+<h3 align="center">
+Full Stack Developer • Cloud Enthusiast • Problem Solver
+</h3>
 
 <p align="center">
-Solving real-world problems with code 🚀
+💻 Building real-world solutions with code 🚀  
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 🚀 Tech Stack
+
+### 💻 Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,c,cpp,python,js" />
+</p>
+
+### 🌐 Frontend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+### ⚙️ Backend & Frameworks
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring" />
+</p>
+
+### ☁️ Cloud & Deployment
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -15,9 +44,68 @@ Solving real-world problems with code 🚀
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 <a href="https://kavyasharma2005.github.io/Portfolio">
 <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kavyasharma2005&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kavyasharma2005&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Progress Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kavyasharma2005&theme=tokyo-night" />
+</p>
+
+---
+
+## 🧠 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/YOUR-LEETCODE-USERNAME?theme=dark&font=baloo" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kavyasharma2005&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/kavyasharma2005/kavyasharma2005/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🧠 Current Focus
+
+- 🔥 DSA & Problem Solving  
+- ☁️ AWS & Cloud Development  
+- 🛠️ Full Stack Projects  
+- ⚡ Backend Optimization  
+
+---
+
+## 💡 Quote
+
+> "Code. Debug. Learn. Repeat." 🚀
