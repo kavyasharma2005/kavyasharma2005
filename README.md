@@ -5,7 +5,27 @@ Full Stack Developer • Cloud Enthusiast • Problem Solver
 </h3>
 
 <p align="center">
-💻 Building real-world solutions with code 🚀  
+💻 Building real-world solutions with code 🚀
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/kavyasharma2005">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kavya-sharma-8183273a8/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/KavyaSharma2005/">
+<img src="https://img.shields.io/badge/LeetCode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -19,12 +39,12 @@ Full Stack Developer • Cloud Enthusiast • Problem Solver
 
 ### 🌐 Frontend
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css" />
+<img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
 ### ⚙️ Backend & Frameworks
 <p align="center">
-<img src="https://skillicons.dev/icons?i=spring" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 </p>
 
 ### ☁️ Cloud & Deployment
@@ -34,25 +54,35 @@ Full Stack Developer • Cloud Enthusiast • Problem Solver
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
 </p>
 
+### 🛠 Tools & Workflow
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
 ---
 
-## 🌐 Connect With Me
+## 🚀 Featured Project
+
+### 🔥 TaskMaster - Full Stack Task Manager
 
 <p align="center">
-
+<a href="https://taskmaster-k8g1.onrender.com/">
+<img src="https://img.shields.io/badge/Live Demo-TaskMaster-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+</a>
 <a href="https://github.com/kavyasharma2005">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Repository-000?style=for-the-badge&logo=github"/>
 </a>
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://kavyasharma2005.github.io/Portfolio">
-<img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
 </p>
+
+📝 A full stack task management application that allows users to:
+- ✅ Create, update, and delete tasks  
+- 📅 Manage daily workflow efficiently  
+- ☁️ Deployed on cloud using Render  
+
+⚙️ Tech Used:
+- Java + Spring Boot (Backend)  
+- HTML, CSS, JavaScript (Frontend)  
+- AWS / Render (Deployment)  
 
 ---
 
@@ -65,7 +95,7 @@ Full Stack Developer • Cloud Enthusiast • Problem Solver
 
 ---
 
-## 📈 Progress Graph
+## 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavyasharma2005&theme=tokyo-night" />
@@ -73,18 +103,10 @@ Full Stack Developer • Cloud Enthusiast • Problem Solver
 
 ---
 
-## 🧠 LeetCode Stats
+## 🧠 LeetCode Progress
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/YOUR-LEETCODE-USERNAME?theme=dark&font=baloo" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kavyasharma2005&theme=tokyonight&row=1&column=6" />
+<img src="https://leetcard.jacoblin.cool/KavyaSharma2005?theme=dark&font=baloo" />
 </p>
 
 ---
@@ -99,10 +121,10 @@ Full Stack Developer • Cloud Enthusiast • Problem Solver
 
 ## 🧠 Current Focus
 
-- 🔥 DSA & Problem Solving  
-- ☁️ AWS & Cloud Development  
-- 🛠️ Full Stack Projects  
-- ⚡ Backend Optimization  
+- 🔥 DSA & Competitive Programming  
+- ☁️ AWS & Cloud Architecture  
+- 🛠️ Full Stack Development  
+- ⚡ Backend with Spring Boot  
 
 ---
 
