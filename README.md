@@ -14,6 +14,9 @@ Full Stack Developer • Cloud Enthusiast • Problem Solver
 ---
 
 ## 🌐 Connect With Me
+<a href="mailto:kavyasharma19.cse@gmail.com">
+<img src="https://img.shields.io/badge/Email-kavyasharma19.cse%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <p align="center">
 
