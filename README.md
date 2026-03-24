@@ -1,41 +1,25 @@
 <h1 align="center">
-
 <svg width="500" height="100" viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#6a0dad;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#b026ff;stop-opacity:1" />
+      <stop offset="0%" stop-color="#6a0dad"/>
+      <stop offset="100%" stop-color="#b026ff"/>
     </linearGradient>
-
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
   </defs>
 
   <text x="50%" y="55%" text-anchor="middle"
         fill="url(#grad)"
         font-size="42"
-        font-family="Verdana"
-        filter="url(#glow)">
+        font-family="Verdana">
     ✨ Kavya Sharma ✨
   </text>
 </svg>
-
 </h1>
-
-  <text x="50%" y="55%" text-anchor="middle" fill="url(#grad)" font-size="40" font-family="Verdana" filter="url(#glow)">
-    Kavya Sharma
-  </text>
-</svg>
-</p>
 
 <h3 align="center">
 Full Stack Developer • Cloud Enthusiast • Problem Solver
 </h3>
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Cloud+Enthusiast;Java+%2B+Spring+Boot;DSA+Learner" />
 </p>
@@ -43,6 +27,7 @@ Full Stack Developer • Cloud Enthusiast • Problem Solver
 <p align="center">
 💻 Building real-world solutions with code 🚀
 </p>
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=kavyasharma2005&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
@@ -50,11 +35,12 @@ Full Stack Developer • Cloud Enthusiast • Problem Solver
 ---
 
 ## 🌐 Connect With Me
+
+<p align="center">
+
 <a href="mailto:kavyasharma19.cse@gmail.com">
 <img src="https://img.shields.io/badge/Email-kavyasharma19.cse%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<p align="center">
 
 <a href="https://github.com/kavyasharma2005">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
@@ -100,6 +86,7 @@ Full Stack Developer • Cloud Enthusiast • Problem Solver
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kavyasharma2005&show_icons=true&theme=tokyonight" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavyasharma2005&theme=tokyonight" />
@@ -107,36 +94,27 @@ Full Stack Developer • Cloud Enthusiast • Problem Solver
 
 ---
 
-
-
 ## 📌 Featured Repositories
 
 <p align="center">
 
-<a href="https://github.com/kavyasharma2005">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=kavyasharma2005&repo=TaskMaster&theme=tokyonight" />
-</a>
 
-<a href="https://github.com/kavyasharma2005">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=kavyasharma2005&repo=YOUR-REPO-2&theme=tokyonight" />
-</a>
 
-<a href="https://github.com/kavyasharma2005">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=kavyasharma2005&repo=YOUR-REPO-3&theme=tokyonight" />
-</a>
 
 </p>
-## 🚀 Featured Project
+
 ---
+
+## 🚀 Featured Project
 
 ### 🔥 TaskMaster - Full Stack Task Manager
 
 <p align="center">
 <a href="https://taskmaster-k8g1.onrender.com/">
 <img src="https://img.shields.io/badge/Live Demo-TaskMaster-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
-</a>
-<a href="https://github.com/kavyasharma2005">
-<img src="https://img.shields.io/badge/GitHub-Repository-000?style=for-the-badge&logo=github"/>
 </a>
 </p>
 
