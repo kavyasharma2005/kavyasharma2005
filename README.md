@@ -1,20 +1,19 @@
 <h1 align="center">✨ Kavya Sharma ✨</h1>
-<h3 align="center">Java Developer • Cloud Enthusiast • Linux Explorer • C++ Programmer • Future Full Stack Engineer</h3>
+<h3 align="center">Java Developer • Cloud Enthusiast • Future Full Stack Engineer</h3>
 
 <p align="center">
-💻 Solving real-world problems with code 🚀 <br>
-⚡ Passionate about building scalable systems & learning new tech
+💻 Solving real-world problems with code 🚀
 </p>
 
 ---
 
 ### 🚀 Tech Stack
 
-- ☕ Java (Core + DSA)
-- ⚙️ C++ (Problem Solving)
-- 🐧 Linux (CLI, System Usage)
-- ☁️ Cloud Basics
-- 🌐 Web Development (Learning Phase)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,cpp,linux,aws,html,css,js,git,github" />
+
+</p>
 
 ---
 
@@ -49,10 +48,10 @@
 
 ### 🧠 Current Focus
 
-- 🔥 Mastering Data Structures & Algorithms
-- ☁️ Exploring Cloud Technologies
+- 🔥 DSA in Java & C++
+- ☁️ Learning AWS Cloud
 - 🛠️ Building Full Stack Projects
-- 🐧 Improving Linux skills
+- 🐧 Getting better with Linux
 
 ---
 
